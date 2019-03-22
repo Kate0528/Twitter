@@ -1,13 +1,5 @@
 # Twitter
 ---
-layout: notebook
-title: Finding Donors for Charity using Machine Learning
-skills: Python, Scikit-learn, Decision Trees, SVM, Adaboost
-external_type: Github
-external_url: https://github.com/Kate0528/Twitter-Sentiment-Analysis
-description: An Adaboost classifier to accurately predict whether an individual makes more than $50,000, and identify likely donors for a non-profit organisation.
----
----
 
 Twitter represents a fundamentally new instrument to make social measurements. Millions of people voluntarily express opinions across any topic imaginable --- this data source is incredibly valuable for both research and business.
 
